@@ -21,3 +21,16 @@ Mingyang Ye's resume
 
 **Github**：https://github.com/luludada
 
+## Summary
+
+Current a high school student. 1 year experience specializing in building, designing and programming on VEX Robot. 
+
+A brief started in web development and HTML games. Now keep building on personal website.
+
+Super nerd who loves robot and mechaine and enjoys to customize all of the mechanisms. 
+
+Interested in devising a better problem-solving method for challenging tasks, and learning new technologies and tools if the need arises.
+
+## Experience
+
+
