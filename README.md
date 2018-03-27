@@ -33,7 +33,7 @@ Mingyang Ye's resume
 
 ## Experience
 
-* 2017/06, the first time learn HTML, CSS, JavaScript
+* 2017/06, the first time learned HTML, CSS, JavaScript
 
 * 2017/09, became team leader of VEX robotic team 1010S and 1010Y in West Vancouver Robotic Academy 
 
@@ -43,7 +43,18 @@ Mingyang Ye's resume
 
 * 2018/01, successfully managed to the best driving rank at 235th.
 
-* 2018/02, finish building personal website, and post website online.
+* 2018/02, finished building personal website, and post website online.
 
 * 2018/03, successfully lead 1010K qualify the BC VEX Robotics Provincial Championship.
+
+## Personal Project
+
+### [Personal Website](https://github.com/luludada/My-Personal-Website)
+Repository：https://github.com/luludada/My-Personal-Website
+
+Code for my personal website
+
+### [Minesweeper](https://github.com/luludada/WeChat-Minesweeper)
+Repository：https://github.com/luludada/WeChat-Minesweeper
+
 
