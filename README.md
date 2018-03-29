@@ -45,7 +45,7 @@ Mingyang Ye's resume
 
 * 2018/02, finished building personal website, and post website online.
 
-* 2018/03, successfully lead 1010K qualify the BC VEX Robotics Provincial Championship.
+* 2018/03, led 1010K successfully qualified for the BC VEX Robotics Provincial Championship.
 
 ## Personal Project
 
