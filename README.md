@@ -33,9 +33,9 @@ Mingyang Ye's resume
 
 ## Experience
 
-* 2017/06, the first time learned HTML, CSS, JavaScript
+* 2017/06, the first time learned HTML, CSS, JavaScript.
 
-* 2017/09, became team leader of VEX robotic team 1010S and 1010Y in West Vancouver Robotic Academy 
+* 2017/09, became team leader of VEX robotic team 1010S and 1010Y in West Vancouver Robotic Academy.
 
 * 2017/11, successfully managed to the best programming rank at 151th.
 
@@ -52,7 +52,7 @@ Mingyang Ye's resume
 ### [Personal Website](https://github.com/luludada/My-Personal-Website)
 Repository：https://github.com/luludada/My-Personal-Website
 
-Code for my personal website
+Code for my personal website.
 
 ### [Vex Robotics Competetition](https://github.com/1010Robotics)
 1010S: https://github.com/1010Robotics/2017-2018-1010S
@@ -61,13 +61,13 @@ Code for my personal website
 
 1010Y: https://github.com/1010Robotics/2017-2018-1010Y
 
-* Programs are organized accoring to tournment or purpose
+* Programs are organized accoring to tournment or purpose.
 
-* All the programs can have their ports modified in the main.h file
+* All the programs can have their ports modified in the main.h file.
 
-* 1010S and 1010K code written in Pros and 1010Y code written in RobotC
+* 1010S and 1010K code written in Pros and 1010Y code written in RobotC.
 
-* Best programming rank at 151th, best driving rank at 235th. BC Provincial rank at 14th.
+* Best programming rank at 151th, best driving rank at 235th. Ranked at 14th in BC Provincial championship.
 
 ### [Minesweeper](https://github.com/luludada/WeChat-Minesweeper)
 Repository：https://github.com/luludada/WeChat-Minesweeper
@@ -84,3 +84,7 @@ Happy Birthday Song by AppleScript: https://github.com/luludada/Mac-Happy-Birthd
 
 ### [Others](https://github.com/luludada?tab=repositories)
 Check on Github: https://github.com/luludada?tab=repositories
+
+## License
+
+[The MIT License (MIT)](http://opensource.org/licenses/MIT)
