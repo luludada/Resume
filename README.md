@@ -45,7 +45,7 @@ Mingyang Ye's resume
 
 * 2018/02, finished building personal website, and post website online.
 
-* 2018/03, led 1010K successfully qualified for the BC VEX Robotics Provincial Championship.
+* 2018/03, led 1010K successfully qualified for the BC VEX Robotics Provincial Championship and ranked at 14th. 
 
 ## Personal Project
 
@@ -66,6 +66,8 @@ Code for my personal website
 * All the programs can have their ports modified in the main.h file
 
 * 1010S and 1010K code written in Pros and 1010Y code written in RobotC
+
+* Best programming rank at 151th, best driving rank at 235th. BC Provincial rank at 14th.
 
 ### [Minesweeper](https://github.com/luludada/WeChat-Minesweeper)
 Repository：https://github.com/luludada/WeChat-Minesweeper
