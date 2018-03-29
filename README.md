@@ -56,7 +56,9 @@ Code for my personal website
 
 ### [Vex Robotics Competetition](https://github.com/1010Robotics)
 1010S: https://github.com/1010Robotics/2017-2018-1010S
+
 1010K: https://github.com/1010Robotics/2017-2018-1010K
+
 1010Y: https://github.com/1010Robotics/2017-2018-1010Y
 
 1010S and 1010K code written by Pros and 1010Y code written by RobotC
@@ -71,6 +73,7 @@ An analysis on WeChat Red Pack Allocation System, the code written by MatLab
 
 ### [AppleScript]
 ShortCut Application: https://github.com/luludada/Applescript-Editor
+
 Happy Birthday Song by AppleScript: https://github.com/luludada/Mac-Happy-Birthday-song
 
 ### [Others](https://github.com/luludada?tab=repositories)
