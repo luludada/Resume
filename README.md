@@ -61,7 +61,11 @@ Code for my personal website
 
 1010Y: https://github.com/1010Robotics/2017-2018-1010Y
 
-1010S and 1010K code written by Pros and 1010Y code written by RobotC
+* Programs are organized accoring to tournment or purpose
+
+* All the programs can have their ports modified in the main.h file
+
+* 1010S and 1010K code written in Pros and 1010Y code written in RobotC
 
 ### [Minesweeper](https://github.com/luludada/WeChat-Minesweeper)
 Repository：https://github.com/luludada/WeChat-Minesweeper
