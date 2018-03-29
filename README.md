@@ -71,7 +71,7 @@ Repository: https://github.com/luludada/WeChat_RED_Packet_Allocation-algorithm
 
 An analysis on WeChat Red Pack Allocation System, the code written by MatLab
 
-### [AppleScript]
+### AppleScript
 ShortCut Application: https://github.com/luludada/Applescript-Editor
 
 Happy Birthday Song by AppleScript: https://github.com/luludada/Mac-Happy-Birthday-song
