@@ -85,6 +85,13 @@ Happy Birthday Song by AppleScript: https://github.com/luludada/Mac-Happy-Birthd
 ### [Others](https://github.com/luludada?tab=repositories)
 Check on Github: https://github.com/luludada?tab=repositories
 
+## Skills
+
+## Personal Interest
+
+## Volunteer Experience
+
+
 ## License
 
 [The MIT License (MIT)](http://opensource.org/licenses/MIT)
