@@ -83,7 +83,7 @@ Repository：https://github.com/luludada/WeChat-Minesweeper
 ### [WeChat Red Packet Algorithm](https://github.com/luludada/WeChat_RED_Packet_Allocation-algorithm)
 Repository: https://github.com/luludada/WeChat_RED_Packet_Allocation-algorithm
 
-* An analysis on WeChat Red Pack Allocation System, the code written by MatLab
+* An analysis on WeChat Red Pack Allocation System, the code written in MatLab
 
 ### AppleScript
 ShortCut Application: https://github.com/luludada/Applescript-Editor
@@ -115,9 +115,9 @@ Check on Github: https://github.com/luludada?tab=repositories
   
 * Library assistant in west Vancouver Memorial Library(October 2015 to Present)
 
-  * Help librarian set up upcoming events in the library, for example, the Remember Day ceremony, book sale day.
+  * Helped librarian set up upcoming events in the library, for example, the Remember Day ceremony, book sale day.
   
-  * Help librarian develops the website with Mandarin translation option.
+  * Helped librarian develops the website with Mandarin translation option.
 
 ## License
 
