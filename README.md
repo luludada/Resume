@@ -101,15 +101,23 @@ Check on Github: https://github.com/luludada?tab=repositories
 ## Volunteer Experience
 * Technical assistant in Chartwell Elementary School(September 2016 to Present)
   
-  * Trained and motivated a small group of children to practice coding skill
+  * Trained and motivated a small group of children to practice coding skill.
   
-  * Communicated effectively with supervisor to develop teaching method
+  * Communicated effectively with supervisor to develop teaching method.
   
-  * Guided children build mini robot
+  * Guided children build mini robot.
 
-* Book Buddy in West Vancouver Memorial Library(October 2015 to Present)
+* Educational assistant in West Vancouver Memorial Library(October 2015 to Present)
 
-  * Helped children who under 7 years read books
+  * Helped children who under 7 years read books.
+  
+  * Guided children pronounce correctly. 
+  
+* Library assistant in west Vancouver Memorial Library(October 2015 to Present)
+
+  * Help librarian set up upcoming events in the library, for example, the Remember Day ceremony, book sale day.
+  
+  * Help librarian develops the website with Mandarin translation option.
 
 ## License
 
