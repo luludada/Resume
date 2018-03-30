@@ -37,8 +37,6 @@ Mingyang Ye's resume
 
 * Interested in devising a better problem-solving method for challenging tasks, and learning new technologies and tools if the need arises.
 
-* G
-
 ## Experience
 
 * 2017/06, the first time learned HTML, CSS, JavaScript.
