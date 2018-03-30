@@ -25,11 +25,19 @@ Mingyang Ye's resume
 
 * Current a high school student. 1 year experience specializing in building, designing and programming on VEX Robot. 
 
-* A brief started in web development and HTML games. Now keep building on personal website.
-
 * Super nerd who loves robot and mechaine and enjoys to customize all of the mechanisms. 
 
+* 1 year experience in Pros and RobotC
+
+* Strong teamwork skills and experience in building effective working relations with colleagues in technical & extracurricular roles
+
+* Demonstrated organizational and leadership skills 
+
+* Experience in HTML, JavaScript and CSS website development
+
 * Interested in devising a better problem-solving method for challenging tasks, and learning new technologies and tools if the need arises.
+
+* G
 
 ## Experience
 
@@ -52,7 +60,7 @@ Mingyang Ye's resume
 ### [Personal Website](https://github.com/luludada/My-Personal-Website)
 Repository：https://github.com/luludada/My-Personal-Website
 
-Code for my personal website.
+Produced 
 
 ### [Vex Robotics Competetition](https://github.com/1010Robotics)
 1010S: https://github.com/1010Robotics/2017-2018-1010S
@@ -68,6 +76,8 @@ Code for my personal website.
 * 1010S and 1010K code written in Pros and 1010Y code written in RobotC.
 
 * Best programming rank at 151th, best driving rank at 235th. Ranked at 14th in BC Provincial championship.
+
+* Team leader of 1010S and 1010K. Main programmer of 1010S, 1010K and 1010Y.
 
 ### [Minesweeper](https://github.com/luludada/WeChat-Minesweeper)
 Repository：https://github.com/luludada/WeChat-Minesweeper
@@ -85,12 +95,23 @@ Happy Birthday Song by AppleScript: https://github.com/luludada/Mac-Happy-Birthd
 ### [Others](https://github.com/luludada?tab=repositories)
 Check on Github: https://github.com/luludada?tab=repositories
 
-## Skills
-
 ## Personal Interest
+* Mechanical experimitting (Arduino laser engraver)
+* Website development. Have completed one personal website. 
+* Swimming, running and playing badminton. 
 
 ## Volunteer Experience
+* Technical assistant in Chartwell Elementary School(September 2016 to Present)
+  
+  * Trained and motivated a small group of children to practice coding skill
+  
+  * Communicated effectively with supervisor to develop teaching method
+  
+  * Guided children build mini robot
 
+* Book Buddy in West Vancouver Memorial Library(October 2015 to Present)
+
+  * Helped children who under 7 years read books
 
 ## License
 
