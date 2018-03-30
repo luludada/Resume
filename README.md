@@ -58,7 +58,7 @@ Mingyang Ye's resume
 ### [Personal Website](https://github.com/luludada/My-Personal-Website)
 Repository：https://github.com/luludada/My-Personal-Website
 
-Produced 
+* Produced clear HTML and CSS to create my personal website.
 
 ### [Vex Robotics Competetition](https://github.com/1010Robotics)
 1010S: https://github.com/1010Robotics/2017-2018-1010S
@@ -83,7 +83,7 @@ Repository：https://github.com/luludada/WeChat-Minesweeper
 ### [WeChat Red Packet Algorithm](https://github.com/luludada/WeChat_RED_Packet_Allocation-algorithm)
 Repository: https://github.com/luludada/WeChat_RED_Packet_Allocation-algorithm
 
-An analysis on WeChat Red Pack Allocation System, the code written by MatLab
+* An analysis on WeChat Red Pack Allocation System, the code written by MatLab
 
 ### AppleScript
 ShortCut Application: https://github.com/luludada/Applescript-Editor
