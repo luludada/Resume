@@ -77,6 +77,15 @@ Repository：https://github.com/luludada/My-Personal-Website
 
 * Team leader of 1010S and 1010K. Main programmer of 1010S, 1010K and 1010Y.
 
+###[Data Science](https://github.com/luludada/Data-Science)
+Repository: https://github.com/luludada/Data-Science
+
+Taught myself statistics about business and econmics.
+
+Taught myself Python based on DataQuest and the book "Python for Data Analysis".
+
+Taught myself R based on the book "R in Action".
+
 ### [Minesweeper](https://github.com/luludada/WeChat-Minesweeper)
 Repository：https://github.com/luludada/WeChat-Minesweeper
 
