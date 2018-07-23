@@ -46,7 +46,7 @@ Mingyang Ye's resume
 * 2017/11, successfully managed to the best programming rank at 151th.
 
 * 2017/12, became main programmer in VEX robotic team 1010S, 1010K and 1010Y.
-
+Repository
 * 2018/01, successfully managed to the best driving rank at 235th.
 
 * 2018/02, finished building personal website, and post website online.
@@ -59,6 +59,16 @@ Mingyang Ye's resume
 Repository：https://github.com/luludada/My-Personal-Website
 
 * Produced clear HTML and CSS to create my personal website.
+
+### [Arduino Fingerprint Attendance System Project](https://github.com/luludada/Arduino-Fingerprint-Attendance-System-Project)
+Repository: https://github.com/luludada/Arduino-Fingerprint-Attendance-System-Project
+
+* A fingerprint application based on Arduino hardware and software. 
+
+### [CPSC110](https://github.com/luludada/Dr.Racket)
+Repository: https://github.com/luludada/Dr.Racket
+
+* Self-taught UBC CPSC 110 via UBC materials. 
 
 ### [Vex Robotics Competetition](https://github.com/1010Robotics)
 1010S: https://github.com/1010Robotics/2017-2018-1010S
