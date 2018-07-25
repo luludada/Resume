@@ -65,10 +65,17 @@ Repository: https://github.com/luludada/Arduino-Fingerprint-Attendance-System-Pr
 
 * A fingerprint application based on Arduino hardware and software. 
 
-### [CPSC110](https://github.com/luludada/Dr.Racket)
-Repository: https://github.com/luludada/Dr.Racket
+### [Data Science](https://github.com/luludada/Data-Science)
+Repository: https://github.com/luludada/Data-Science
 
-* Self-taught UBC CPSC 110 via UBC materials. 
+Taught myself statistics about business and econmics.
+
+Taught myself Python based on DataQuest and the book "Python for Data Analysis".
+
+Taught myself R based on the book "R in Action".
+
+### [Minesweeper](https://github.com/luludada/WeChat-Minesweeper)
+Repository：https://github.com/luludada/WeChat-Minesweeper
 
 ### [Vex Robotics Competetition](https://github.com/1010Robotics)
 1010S: https://github.com/1010Robotics/2017-2018-1010S
@@ -87,17 +94,11 @@ Repository: https://github.com/luludada/Dr.Racket
 
 * Team leader of 1010S and 1010K. Main programmer of 1010S, 1010K and 1010Y.
 
-### [Data Science](https://github.com/luludada/Data-Science)
-Repository: https://github.com/luludada/Data-Science
+### [Dr.Racket](https://github.com/luludada/Dr.Racket)
+Repository: https://github.com/luludada/Dr.Racket
 
-Taught myself statistics about business and econmics.
+* Self-taught UBC CPSC 110 via UBC materials. 
 
-Taught myself Python based on DataQuest and the book "Python for Data Analysis".
-
-Taught myself R based on the book "R in Action".
-
-### [Minesweeper](https://github.com/luludada/WeChat-Minesweeper)
-Repository：https://github.com/luludada/WeChat-Minesweeper
 
 ### [WeChat Red Packet Algorithm](https://github.com/luludada/WeChat_RED_Packet_Allocation-algorithm)
 Repository: https://github.com/luludada/WeChat_RED_Packet_Allocation-algorithm
