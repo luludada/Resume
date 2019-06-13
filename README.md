@@ -13,7 +13,9 @@ Mingyang Ye's resume
 
 **Hometown**: Xiamen City, Fujian Province, China
 
-**School**：West Vancouver Secondary School
+**University**：University of British Columbia
+
+**High School**：West Vancouver Secondary School
 
 **Email**: mingyangye801@gmail.com
 
