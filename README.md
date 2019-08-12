@@ -25,17 +25,17 @@ Mingyang Ye's resume
 
 ## Summary
 
-* Current a high school student. 1 year experience specializing in building, designing and programming on VEX Robot. 
+* Current an university student. 2 year experience specializing in building, designing and programming on VEX Robot. 
 
 * Super nerd who loves robot and mechaine and enjoys to customize all of the mechanisms. 
 
-* 1 year experience in Pros and RobotC
+* 2 year experience in Pros and RobotC
 
 * Strong teamwork skills and experience in building effective working relations with colleagues in technical & extracurricular roles
 
 * Demonstrated organizational and leadership skills 
 
-* Experience in HTML, JavaScript and CSS website development
+* Experience in HTML, JavaScript and CSS website development, Java software development.
 
 * Interested in devising a better problem-solving method for challenging tasks, and learning new technologies and tools if the need arises.
 
@@ -48,7 +48,7 @@ Mingyang Ye's resume
 * 2017/11, successfully managed to the best programming rank at 151th.
 
 * 2017/12, became main programmer in VEX robotic team 1010S, 1010K and 1010Y.
-Repository
+
 * 2018/01, successfully managed to the best driving rank at 235th.
 
 * 2018/02, finished building personal website, and post website online.
