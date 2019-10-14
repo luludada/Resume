@@ -25,7 +25,7 @@ Mingyang Ye's resume
 
 ## Summary
 
-* Current an university student, major in Fouble Major with Computer Science and Statistics. 
+* Current an university student, major in double Major with Computer Science and Statistics. 
 
 * 2 year experience specializing in building, designing and programming on VEX Robot. 
 
