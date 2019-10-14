@@ -9,7 +9,7 @@ Mingyang Ye's resume
 
 **Gender**: Male
 
-**Data of Birth**: 05/17/1999
+**Data of Birth**: 05/17/2000
 
 **Hometown**: Xiamen City, Fujian Province, China
 
@@ -25,7 +25,9 @@ Mingyang Ye's resume
 
 ## Summary
 
-* Current an university student. 2 year experience specializing in building, designing and programming on VEX Robot. 
+* Current an university student, major in Fouble Major with Computer Science and Statistics. 
+
+* 2 year experience specializing in building, designing and programming on VEX Robot. 
 
 * Super nerd who loves robot and mechaine and enjoys to customize all of the mechanisms. 
 
